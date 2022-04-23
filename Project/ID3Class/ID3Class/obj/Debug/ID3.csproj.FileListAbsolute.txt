@@ -1,0 +1,12 @@
+C:\Users\Yacine\Desktop\ID3Class\ID3Class\bin\Debug\ID3.dll
+C:\Users\Yacine\Desktop\ID3Class\ID3Class\bin\Debug\ID3.pdb
+C:\Users\Yacine\Desktop\ID3Class\ID3Class\obj\Debug\ID3.csprojAssemblyReference.cache
+C:\Users\Yacine\Desktop\ID3Class\ID3Class\obj\Debug\ID3.csproj.CoreCompileInputs.cache
+C:\Users\Yacine\Desktop\ID3Class\ID3Class\obj\Debug\ID3.dll
+C:\Users\Yacine\Desktop\ID3Class\ID3Class\obj\Debug\ID3.pdb
+E:\STUFF\programmation\Apps\28-MusicPlayer\ID3Class\ID3Class\bin\Debug\ID3.dll
+E:\STUFF\programmation\Apps\28-MusicPlayer\ID3Class\ID3Class\bin\Debug\ID3.pdb
+E:\STUFF\programmation\Apps\28-MusicPlayer\ID3Class\ID3Class\obj\Debug\ID3.csprojAssemblyReference.cache
+E:\STUFF\programmation\Apps\28-MusicPlayer\ID3Class\ID3Class\obj\Debug\ID3.csproj.CoreCompileInputs.cache
+E:\STUFF\programmation\Apps\28-MusicPlayer\ID3Class\ID3Class\obj\Debug\ID3.dll
+E:\STUFF\programmation\Apps\28-MusicPlayer\ID3Class\ID3Class\obj\Debug\ID3.pdb
